@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/isjia/HappyMoment-wechat-service#readme",
   "dependencies": {
-    "admin-lte": "^2.3.8"
+    "admin-lte": "^2.3.8",
+    "wechat-api": "^1.32.0"
   }
 }
