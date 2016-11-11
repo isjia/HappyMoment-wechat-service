@@ -1,0 +1,19 @@
+{
+  "name": "happpy-moment-wechat-service",
+  "version": "0.1.0",
+  "description": "happy moment wechat service dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isjia/HappyMoment-wechat-service.git"
+  },
+  "author": "Jenny Qian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isjia/HappyMoment-wechat-service/issues"
+  },
+  "homepage": "https://github.com/isjia/HappyMoment-wechat-service#readme"
+}
