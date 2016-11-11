@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isjia/HappyMoment-wechat-service/issues"
   },
-  "homepage": "https://github.com/isjia/HappyMoment-wechat-service#readme"
+  "homepage": "https://github.com/isjia/HappyMoment-wechat-service#readme",
+  "dependencies": {
+    "admin-lte": "^2.3.8"
+  }
 }
