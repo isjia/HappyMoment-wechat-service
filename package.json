@@ -18,6 +18,12 @@
   "homepage": "https://github.com/isjia/HappyMoment-wechat-service#readme",
   "dependencies": {
     "admin-lte": "^2.3.8",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "sha1": "^1.1.1",
+    "wechat": "^2.0.3",
     "wechat-api": "^1.32.0"
-  }
+  },
+  "devDependencies": {}
 }
